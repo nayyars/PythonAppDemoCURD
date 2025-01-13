@@ -174,7 +174,7 @@ def DeleteTest(testID:int):
       with pyodbc.connect(connectionstringss) as connection:
           curser=connection.cursor();
           curser.execute("Delete from TestResult where TestID="+str(testID))
-           
+            
           connection.commit()
          
       return {"status_code": 200, "Result": "Deleted"}
