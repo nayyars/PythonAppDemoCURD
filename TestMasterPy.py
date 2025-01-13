@@ -176,7 +176,7 @@ def DeleteTest(testID:int):
           curser.execute("Delete from TestResult where TestID="+str(testID))
            
           connection.commit()
-        
+         
       return {"status_code": 200, "Result": "Deleted"}
     except Exception as e:
         return {"error": str(e)}
