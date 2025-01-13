@@ -168,7 +168,7 @@ def ListTestData(newTest:TestMasterModel):
         return {"error": str(e)}
 
     # Delete  Test Data  
-@app.post("/Delete/{TestID}")
+@app.get("/Delete/{TestID}")
 def DeleteTest(testID:int):
     try:
       with pyodbc.connect(connectionstringss) as connection:
