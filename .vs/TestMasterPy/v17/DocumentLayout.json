@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Nayyar-Programming\\Global Applications Solution\\TestMasterPython\\TestMasterPy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD17ADF-7C51-49C3-8EDD-03EE649A99E8}|TestMasterPy.pyproj|C:\\Nayyar-Programming\\Global Applications Solution\\TestMasterPython\\TestMasterPy\\TestMasterPy.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5BD17ADF-7C51-49C3-8EDD-03EE649A99E8}|TestMasterPy.pyproj|solutionrelative:TestMasterPy.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD17ADF-7C51-49C3-8EDD-03EE649A99E8}|TestMasterPy.pyproj|C:\\Nayyar-Programming\\Global Applications Solution\\TestMasterPython\\TestMasterPy\\dbEntitiesModel.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5BD17ADF-7C51-49C3-8EDD-03EE649A99E8}|TestMasterPy.pyproj|solutionrelative:dbEntitiesModel.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BD17ADF-7C51-49C3-8EDD-03EE649A99E8}|TestMasterPy.pyproj|C:\\Nayyar-Programming\\Global Applications Solution\\TestMasterPython\\TestMasterPy\\DatabaseConfig.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5BD17ADF-7C51-49C3-8EDD-03EE649A99E8}|TestMasterPy.pyproj|solutionrelative:DatabaseConfig.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbEntitiesModel.py",
+              "DocumentMoniker": "C:\\Nayyar-Programming\\Global Applications Solution\\TestMasterPython\\TestMasterPy\\dbEntitiesModel.py",
+              "RelativeDocumentMoniker": "dbEntitiesModel.py",
+              "ToolTip": "C:\\Nayyar-Programming\\Global Applications Solution\\TestMasterPython\\TestMasterPy\\dbEntitiesModel.py",
+              "RelativeToolTip": "dbEntitiesModel.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-01-12T19:39:28.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseConfig.py",
+              "DocumentMoniker": "C:\\Nayyar-Programming\\Global Applications Solution\\TestMasterPython\\TestMasterPy\\DatabaseConfig.py",
+              "RelativeDocumentMoniker": "DatabaseConfig.py",
+              "ToolTip": "C:\\Nayyar-Programming\\Global Applications Solution\\TestMasterPython\\TestMasterPy\\DatabaseConfig.py",
+              "RelativeToolTip": "DatabaseConfig.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-01-12T19:15:58.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestMasterPy.py",
+              "DocumentMoniker": "C:\\Nayyar-Programming\\Global Applications Solution\\TestMasterPython\\TestMasterPy\\TestMasterPy.py",
+              "RelativeDocumentMoniker": "TestMasterPy.py",
+              "ToolTip": "C:\\Nayyar-Programming\\Global Applications Solution\\TestMasterPython\\TestMasterPy\\TestMasterPy.py",
+              "RelativeToolTip": "TestMasterPy.py",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAIcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-01-10T22:30:03.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
