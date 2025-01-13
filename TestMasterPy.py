@@ -166,8 +166,21 @@ def ListTestData(newTest:TestMasterModel):
       return {"status_code": 200, "Result": "Udated"}
     except Exception as e:
         return {"error": str(e)}
-      
-    # Search Test Data  
+
+    # Delete  Test Data  
+@app.post("/Delete/{TestID}")
+def DeleteTest(testID:int):
+    try:
+      with pyodbc.connect(connectionstringss) as connection:
+          curser=connection.cursor();
+          curser.execute("Delete from TestResult where TestID="+str(testID))
+
+          connection.commit()
+        
+      return {"status_code": 200, "Result": "Deleted"}
+    except Exception as e:
+        return {"error": str(e)}
+    
 
  
 # ------------------------------------------------------------------
