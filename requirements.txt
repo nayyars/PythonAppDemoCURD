@@ -1,0 +1,3 @@
+fastapi 
+uvicorn 
+anyio==3.4.0 
